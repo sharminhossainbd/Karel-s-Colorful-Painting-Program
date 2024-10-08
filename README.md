@@ -1,1 +1,3 @@
 This Project defines a program using the Karel programming environment, where Karel is tasked with painting corners in a grid using various colors. The main function orchestrates the painting process by calling specific functions for each color (green, blue, cyan, pink, and white), with each painting function defining the number of moves and painting actions required to complete each section. Additionally, a helper function, moving, is used to navigate Karel between painting sections, while the turn_right function facilitates right turns by using left turns.
+
+The final output can be viewed [Here](https://codeinplace.stanford.edu/cip3/share/zolsRmJsltwL2i7MvR5U)
